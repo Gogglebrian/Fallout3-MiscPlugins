@@ -22,7 +22,7 @@ Various simple esp plugins for Fallout 3:
 	- Reduced spread
 	- Junk such as tin cans, silverware, drinking/shot glasses, and empty bottles are made weightless
 - BetterRockItLauncher_FOSE_DamageNerf - Alt version of above with damage nerfed, probably for better balance.
-- BetterRockItLauncher_VATSOnly - Alt Rock-It Launcher buff that leaves it semi-auto and doesn't require FOSE. Otherwise same as above but with reduced VATS cost instead of higher.
+- BetterRockItLauncher_VATSOnly - Alt Rock-It Launcher buff that leaves it semi-auto and doesn't require FOSE. Otherwise same as above but with reduced VATS cost from vanilla.
 - BlitzPerk_FOSE - Requires FOSE. Adds the Blitz perk, which doubles the VATS range of Melee and Unarmed attacks.
 	- Requirements: Level 8, 6 Agility
 	- Known bug: This works by changing a game setting, which will linger even if you load a save without the perk. To prevent this, exit and reopen Fallout 3 before loading a different save.
