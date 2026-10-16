@@ -1,0 +1,30 @@
+Various simple esp plugins for Fallout 3:
+- BetterChemResistant - Makes the Chem Resistant perk provide 100% immunity to chem addiction.
+- BetterDemoExpert - The Demo Expert perk now gives +50% damage per rank instead of +20%.
+- BetterFlamers - Triples the durability of all flamer variants, increases their effective range by 50% (their reach will appear the same visually), and allows flames to pass through some transparent objects like chain link fences.
+- BetterMiniguns - Reduces the spread of the Minigun and Eugune from 2 to 1.75.
+- BetterMissileLaunchers - Makes various subtle improvements to the Missile Launcher, specifically to make it a better long-range weapon.
+	- Reduced spread
+	- Increased projectile speed
+	- Reduced AP cost
+- BetterPyromaniac - The Pyromaniac perk now affects the Burnmaster and Zhu Rong Chinese Pistol, grants 25% Fire Resistance, and requires the Big Guns skill instead of Explosives.
+- BetterRailwayRifle - Buffs the Railway Rifle:
+	- Damage and crit damage buffed from 30 to 50.
+	- Health and value buffed from 200 to 600
+	- Spread reduced from 0.75 to 0.2
+	- Projectile speed increased 50%
+	- Limb damage mult reduced from 3 to 1.5
+	- Crit chance reduced from 3 to 2.5
+- BetterRailwayRifle_RHIronSights - Use instead of the above for compatibility with the RHIronSights mod.
+- BetterRockItLauncher_FOSE - Requires FOSE. Makes the Rock-It Launcher fully automatic. Other tweaks include:
+	- Increased durability, sell value, repair cost, and projectile speed
+	- Increased AP cost to offset burst fire
+	- Reduced spread
+	- Junk such as tin cans, silverware, drinking/shot glasses, and empty bottles are made weightless
+- BetterRockItLauncher_FOSE_DamageNerf - Alt version of above with damage nerfed, probably for better balance.
+- BetterRockItLauncher_VATSOnly - Alt Rock-It Launcher buff that leaves it semi-auto and doesn't require FOSE. Otherwise same as above but with reduced VATS cost instead of higher.
+- BlitzPerk_FOSE - Requires FOSE. Adds the Blitz perk, which doubles the VATS range of Melee and Unarmed attacks.
+	- Requirements: Level 8, 6 Agility
+	- Known bug: This works by changing a game setting, which will linger even if you load a save without the perk. To prevent this, exit and reopen Fallout 3 before loading a different save.
+- CZ55Defender: Adds this precision minigun with a reduced spread of 1.0, base damage of 6, slightly higher AP cost of 33, and slightly increased crit chance/damage. Found in the Yao Guai Den next to the Sneak Bobblehead.
+- QuadLauncher: Adds this unique Missile Launcher variant with an ammo capacity of 4. Bonus features: lower VATS cost, higher projectile speed. Found in a bathtub in the Fort Constantine CO Quarters.
